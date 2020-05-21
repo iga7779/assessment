@@ -73,6 +73,7 @@ const answers = [
 '{userName}のいいとこみてみたい。{userName}はジャンピング。',
 '{userName}のいいとこはタイピング。{userName}はがんばらない。あ',
 '{userName}のいいとこみてみたい。{userName}はジャンピング。',
+'{userName}のいいとこない。{userName}はどこでもやれる。やさしい。',    
 ];
 
 /** 
